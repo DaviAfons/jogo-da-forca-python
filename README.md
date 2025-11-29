@@ -33,7 +33,7 @@ Certifique-se de ter o Python instalado.
 2.  Entre na pasta:
 
     ```bash
-    cd NOME-DO-REPO
+    cd jogoForca
     ```
 
 3.  Execute o jogo:
