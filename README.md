@@ -28,7 +28,7 @@ Certifique-se de ter o Python instalado.
 1. Clone o repositório:
    ```bash
    git clone [https://github.com/DaviAfons/jogo-da-forca-python.git](https://github.com/DaviAfons/jogo-da-forca-python.git)
-````
+
 
 2.  Entre na pasta:
 
@@ -48,4 +48,6 @@ Certifique-se de ter o Python instalado.
 
 Este projeto está sob a licença MIT. Sinta-se livre para usar e modificar.
 
-```
+## 💻 Desenvolvido por:
+
+**Davi Afonso**
